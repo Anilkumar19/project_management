@@ -21,6 +21,12 @@
    and for running to server use this command
 
    rails server (it will activate default port localhost:3000)
+
+# How To Use
+
+   for using this one user need to sign up and sign in into the application. then he have ability(based on role) to create project and each project have the card lists and each list have multiuple tasks. 
+
+   After login we are displaying the current user all projects(login user), and each project card list(create/update/destroy) and each list cards(tasks).
    
 
 
